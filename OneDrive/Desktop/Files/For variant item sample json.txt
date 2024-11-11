@@ -1,0 +1,349 @@
+For variant item:
+-----------------
+sample json1:
+------------
+{
+"id": "644b6f743065dce039b2cd10",
+"name": "variant008-Red-L",
+"description": "",
+"buttonColor": "#7974FF",
+"imageData": {
+"id": "644b6f743065dce039b2cd10",
+"name": "variant008-Red-L",
+"buttonColor": "#7974FF",
+"imageUrl": "/menuItem/644b6f743065dce039b2cd10/image",
+"imageAvailable": false,
+"imageExtension": "",
+"imageVersion": 1,
+"image": "644b6f743065dce039b2cd10."
+},
+"cutAndModify": false,
+"maxCutFraction": 0,
+"kitchenPrinters": [],
+"labelPrinters": [],
+"restrictPrinters": [],
+"taxes": [
+"610a573362b8a2d28e13a96d"
+],
+"category": {
+"name": "DRINKS",
+"priority": 0,
+"level": 1,
+"servingSizePrices": [],
+"id": "610a573462b8a2d28e13a976"
+},
+"measureType": "Retail Item",
+"sku": "20094188031",
+"servingSizePrices": [],
+"includedModifierGroups": [],
+"mandatoryModifierGroups": [],
+"optionalModifierGroups": [],
+"timeApplicableType": "Always",
+"startDate": "",
+"endDate": "",
+"date": "",
+"sequenceNumber": 35,
+"doNotShowButton": false,
+"ebtMenuItem": false,
+"skuCodes": [
+"20094188031"
+],
+"isEbtEnable": false,
+"pluCode": "",
+"isConventional": false,
+"meitoMenuItem": false,
+"hideMenuItemInKiosk": false,
+"list86": false,
+"isMembershipEnabled": false,
+"evertecTaxType": 0,
+"halfAndHalfSpecialty": false,
+"productType": "itemWithVariants",
+"price": 6000,
+"tare": "",
+"tareGroup": "",
+"defaultTare": ""
+}
+------------------------------------------
+sample json2:
+-------------
+{
+"id": "644b6f923065dce039b2cd11",
+"name": "variant008-Green-L",
+"description": "",
+"buttonColor": "#7974FF",
+"imageData": {
+"id": "644b6f923065dce039b2cd11",
+"name": "variant008-Green-L",
+"buttonColor": "#7974FF",
+"imageUrl": "/menuItem/644b6f923065dce039b2cd11/image",
+"imageAvailable": false,
+"imageExtension": "",
+"imageVersion": 1,
+"image": "644b6f923065dce039b2cd11."
+},
+"cutAndModify": false,
+"maxCutFraction": 0,
+"kitchenPrinters": [],
+"labelPrinters": [],
+"restrictPrinters": [],
+"taxes": [
+"610a573362b8a2d28e13a96d"
+],
+"category": {
+"name": "DRINKS",
+"priority": 0,
+"level": 1,
+"servingSizePrices": [],
+"id": "610a573462b8a2d28e13a976"
+},
+"measureType": "Retail Item",
+"sku": "20094188031",
+"servingSizePrices": [],
+"includedModifierGroups": [],
+"mandatoryModifierGroups": [],
+"optionalModifierGroups": [],
+"timeApplicableType": "Always",
+"startDate": "",
+"endDate": "",
+"date": "",
+"sequenceNumber": 38,
+"doNotShowButton": false,
+"ebtMenuItem": false,
+"skuCodes": [
+"20094188031"
+],
+"isEbtEnable": false,
+"pluCode": "",
+"isConventional": false,
+"meitoMenuItem": false,
+"hideMenuItemInKiosk": false,
+"list86": false,
+"isMembershipEnabled": false,
+"evertecTaxType": 0,
+"halfAndHalfSpecialty": false,
+"productType": "itemWithVariants",
+"price": 6000,
+"tare": "",
+"tareGroup": "",
+"defaultTare": ""
+}
+----------------------------------------------------
+sample json3:
+--------------
+{
+"id": "644b6f9c3065dce039b2cd12",
+"name": "variant008-Blue-L",
+"description": "",
+"buttonColor": "#7974FF",
+"imageData": {
+"id": "644b6f9c3065dce039b2cd12",
+"name": "variant008-Blue-L",
+"buttonColor": "#7974FF",
+"imageUrl": "/menuItem/644b6f9c3065dce039b2cd12/image",
+"imageAvailable": false,
+"imageExtension": "",
+"imageVersion": 1,
+"image": "644b6f9c3065dce039b2cd12."
+},
+"cutAndModify": false,
+"maxCutFraction": 0,
+"kitchenPrinters": [],
+"labelPrinters": [],
+"restrictPrinters": [],
+"taxes": [
+"610a573362b8a2d28e13a96d"
+],
+"category": {
+"name": "DRINKS",
+"priority": 0,
+"level": 1,
+"servingSizePrices": [],
+"id": "610a573462b8a2d28e13a976"
+},
+"measureType": "Retail Item",
+"sku": "20094188031",
+"servingSizePrices": [],
+"includedModifierGroups": [],
+"mandatoryModifierGroups": [],
+"optionalModifierGroups": [],
+"timeApplicableType": "Always",
+"startDate": "",
+"endDate": "",
+"date": "",
+"sequenceNumber": 36,
+"doNotShowButton": false,
+"ebtMenuItem": false,
+"skuCodes": [
+"20094188031"
+],
+"isEbtEnable": false,
+"pluCode": "",
+"isConventional": false,
+"meitoMenuItem": false,
+"hideMenuItemInKiosk": false,
+"list86": false,
+"isMembershipEnabled": false,
+"evertecTaxType": 0,
+"halfAndHalfSpecialty": false,
+"productType": "itemWithVariants",
+"price": 6000,
+"tare": "",
+"tareGroup": "",
+"defaultTare": ""
+}
+-------------------------------------------------
+For composite Item:
+--------------------
+sample json1:
+-------------
+{
+"id": "644b79533065dce039b2cd14",
+"name": "combo009",
+"description": "",
+"buttonColor": "#7974FF",
+"imageData": {
+"id": "644b79533065dce039b2cd14",
+"name": "combo009",
+"buttonColor": "#7974FF",
+"imageUrl": "/menuItem/644b79533065dce039b2cd14/image",
+"imageAvailable": false,
+"imageExtension": "",
+"imageVersion": 0,
+"image": "644b79533065dce039b2cd14."
+},
+"cutAndModify": false,
+"maxCutFraction": 0,
+"kitchenPrinters": [],
+"labelPrinters": [],
+"restrictPrinters": [],
+"taxes": [
+"610a573362b8a2d28e13a96d"
+],
+"category": {
+"name": "DRINKS",
+"priority": 0,
+"level": 1,
+"servingSizePrices": [],
+"id": "610a573462b8a2d28e13a976"
+},
+"measureType": "Retail Item",
+"sku": "24675687333",
+"servingSizePrices": [],
+"includedModifierGroups": [],
+"mandatoryModifierGroups": [],
+"optionalModifierGroups": [],
+"timeApplicableType": "Always",
+"startDate": "",
+"endDate": "",
+"date": "",
+"sequenceNumber": 34,
+"doNotShowButton": false,
+"ebtMenuItem": false,
+"skuCodes": [
+"24675687333"
+],
+"isEbtEnable": false,
+"pluCode": "",
+"isConventional": false,
+"meitoMenuItem": false,
+"hideMenuItemInKiosk": false,
+"list86": false,
+"isMembershipEnabled": false,
+"evertecTaxType": 0,
+"halfAndHalfSpecialty": false,
+"productType": "compositeItem",
+"compositeConfiguration": [
+{
+"retailItem": "63776701fb45818975cb3acb",
+"qty": 1,
+"supplyPriceStr": "10.00",
+"priceStr": "10"
+}
+],
+"price": 2000,
+"tare": "",
+"tareGroup": "",
+"defaultTare": ""
+}
+--------------------------------------------------------
+For standard item:
+------------------
+sample json1:
+--------------
+{
+"id": "644bdb5f9b9e65d9267df1a8",
+"name": "standard item test 1",
+"description": "",
+"buttonColor": "#7974FF",
+"imageData": {
+"id": "644bdb5f9b9e65d9267df1a8",
+"name": "standard item test 1",
+"buttonColor": "#7974FF",
+"imageUrl": "/menuItem/644bdb5f9b9e65d9267df1a8/image",
+"imageAvailable": false,
+"imageExtension": "",
+"imageVersion": 0,
+"image": "644bdb5f9b9e65d9267df1a8."
+},
+"cutAndModify": false,
+"maxCutFraction": 0,
+"kitchenPrinters": [],
+"labelPrinters": [],
+"restrictPrinters": [],
+"taxes": [
+"610a573362b8a2d28e13a96d",
+"63a19ae0858aae5a2f4f4fc9",
+"639c72da7fd6ff05c5f6f844",
+"638882c392c7efeb3dad818f",
+"638881da5baf311340544310",
+"637485c8a249d7c67cdecfcd",
+"63760a50f64e36e8c4152d66"
+],
+"category": {
+"name": "DRINKS",
+"priority": 0,
+"level": 1,
+"servingSizePrices": [],
+"id": "610a573462b8a2d28e13a976"
+},
+"measureType": "Retail Item",
+"sku": "1111",
+"servingSizePrices": [
+{
+"id": "610a573362b8a2d28e13a962",
+"orderSequence": 0,
+"name": "EACH",
+"price": 1110,
+"priceLevels": [],
+"pluCode": "",
+"servingSize": "610a573362b8a2d28e13a962"
+}
+],
+"includedModifierGroups": [],
+"mandatoryModifierGroups": [],
+"optionalModifierGroups": [],
+"timeApplicableType": "Always",
+"startDate": "",
+"endDate": "",
+"date": "",
+"sequenceNumber": 37,
+"doNotShowButton": false,
+"ebtMenuItem": false,
+"skuCodes": [
+"1111"
+],
+"isEbtEnable": false,
+"pluCode": "",
+"isConventional": false,
+"meitoMenuItem": false,
+"hideMenuItemInKiosk": false,
+"list86": false,
+"isMembershipEnabled": false,
+"evertecTaxType": 0,
+"halfAndHalfSpecialty": false,
+"productType": "standardItem",
+"price": 1110,
+"tare": "",
+"tareGroup": "",
+"defaultTare": ""
+}
